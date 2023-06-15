@@ -1,0 +1,12 @@
+<template>
+  <svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+    y="0px" viewBox="300.4 180.7 241.7 114.9" enable-background="new 300.4 180.7 241.7 114.9" xml:space="preserve">
+    <g>
+
+      <line fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" x1="301.9"
+        y1="235.7" x2="525.7" y2="235.7" />
+      <polyline fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" points="485.2,182.2 
+		540,236.9 482.9,294.1 	" />
+    </g>
+  </svg>
+</template>
